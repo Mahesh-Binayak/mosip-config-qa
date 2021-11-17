@@ -34,7 +34,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: auth_server_id
 sn: auth_server_id
-mail: ramadurai.pandian@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 9663175928
 rid: 100011000100002201905101214401
 uid: auth_server_id1
@@ -48,7 +48,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Nikola Tesla
 sn: Nikola Tesla
-mail: nikola.tesla@xyz.com
+mail: mosiptestuser@gmail.com
 mobile: 818876434
 rid: 10001100010000220190510121483
 uid: 110033
@@ -62,7 +62,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn:: SXJ3aW7CoE5vcndvb2Q=
 sn:: SXJ3aW7CoE5vcndvb2Q=
-mail: irwin.norwood@xyz.com
+mail: mosiptestuser@gmail.com
 mobile: 936463358
 rid: 10001100010000220190510121469
 uid: 110020
@@ -76,7 +76,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Ajay
 sn: Ajay
-mail: ajay.j2@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 8660062352
 rid: 10001100010009920190510121450
 uid: ajay-admin
@@ -95,7 +95,7 @@ firstName: Raj
 genderCode: MLE
 isActive: true
 lastName: Kumar
-mail: Ritesh.Sinha@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 2235345634
 rid: 12345678899745432242
 uid: raj03
@@ -109,7 +109,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Qm9uZ8KgQnJhZ2Fu
 sn: Qm9uZ8KgQnJhZ2Fu
-mail: bong.bragan@xyz.com
+mail: mosiptestuser@gmail.com
 mobile: 739704695
 rid: 10001100010000220190510121452
 uid: 110003
@@ -123,7 +123,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: registration admin
 sn: registration admin
-mail: zonaladmin@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 9398002602
 rid: 10001100010009920190510121450
 uid: registration-admin
@@ -137,7 +137,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: registrationprocessor
 sn: registrationprocessor
-mail: monobikash.das@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 8892323542
 rid: 100011000100002201905101214658
 uid: registrationprocessor
@@ -151,7 +151,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: auth_server_id
 sn: auth_server_id
-mail: ramadurai.pandian@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 9663175928
 rid: 100011000100002201905101214379
 uid: auth_server_id
@@ -165,7 +165,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: ramadurai
 sn: ramadurai
-mail: admin@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 9663175928
 rid: 100011000100002201905101214173
 uid: admin
@@ -179,7 +179,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: ramadurai
 sn: ramadurai
-mail: admin@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 9663175928
 rid: 100011000100002201905101214398
 uid: admin2
@@ -193,7 +193,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: ramadurai
 sn: ramadurai
-mail: admin@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 9663175928
 rid: 100011000100002201905101214173
 uid: preregadmin
@@ -208,7 +208,7 @@ objectClass: top
 cn:: TGVvbmlhwqBCZXJtZW8=
 sn:: TGVvbmlhwqBCZXJtZW8=
 isActive: TRUE
-mail: Mahesh.Gattupalli@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 8919377939
 rid: 10001100010000220190510121451
 uid: 110002
@@ -227,7 +227,7 @@ firstName: urvil
 genderCode: MLE
 isActive: false
 lastName: joshi
-mail: Ritesh.Sinha@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 8986898684
 uid: sagar9
 
@@ -239,7 +239,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: user
 sn: user
-mail: ramadurai.pandian@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 9663175928
 rid: 100011000100002201913101214368
 uid: test_user1
@@ -253,7 +253,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: super_admin
 sn: super_admin
-mail: super_admin@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 7585675364
 rid: 100011000100002201907101214368
 uid: super_admin
@@ -267,7 +267,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Individual User1
 sn: Individual User1
-mail: individual_user1@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 8976394859
 rid: 100011000100002201905101214124
 uid: individual_user1
@@ -281,7 +281,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: central admin
 sn: central admin
-mail: sagar.mahapatra2@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 7504871938
 rid: 10001100010009920190510121450
 uid: central-admin
@@ -295,7 +295,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Registration Supervisor User1
 sn: Registration Supervisor User1
-mail: registration_supervisor_user1@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 8756983674
 rid: 100011000100002201905101312368
 uid: registration_supervisor_user1
@@ -309,7 +309,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: ida
 sn: ida
-mail: ida@mosip.io
+mail:mosiptestuser@gmail.com
 mobile: 8976394859
 rid: 100011000100002201905101214368
 uid: ida
@@ -323,7 +323,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: tsp user1
 sn: tsp user1
-mail: tsp_user1@mosip.io
+mail:mosiptestuser@gmail.com
 mobile: 8976545678
 rid: 100011000100002201920101214368
 uid: tsp_user1
@@ -337,7 +337,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn:: QmV0dGluYcKgR29lcmluZw==
 sn:: QmV0dGluYcKgR29lcmluZw==
-mail: bettina.goering@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 876997632
 rid: 10001100010000220190510121464
 uid: 110015
@@ -351,7 +351,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn:: S3Jpc8KgUmFobQ==
 sn:: S3Jpc8KgUmFobQ==
-mail: kris.rahm@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 723337142
 rid: 10001100010000220190510121466
 uid: 110017
@@ -365,7 +365,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: test
 sn: test
-mail: antony.hughes@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 9704578829
 rid: 10001100010000220190510121454
 uid: 110005
@@ -379,7 +379,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Carolyn Rodriguez
 sn: Carolyn Rodriguez
-mail: carolyn.rodriguez@xyz.com
+mail: mosiptestuser@gmail.com
 mobile: 818876429
 rid: 10001100010000220190510121479
 uid: 110029
@@ -393,7 +393,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Adrienne Hoffman
 sn: Adrienne Hoffman
-mail: adrienne.hoffman@xyz.com
+mail: mosiptestuser@gmail.com
 mobile: 848488000
 rid: 10001100010000220190510121471
 uid: 110022
@@ -407,7 +407,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Amare Coleman
 sn: Amare Coleman
-mail: amare.coleman@xyz.com
+mail: mosiptestuser@gmail.com
 mobile: 956554588
 rid: 10001100010000220190510121474
 uid: 110024
@@ -421,7 +421,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Registration Officer
 sn: Registration Officer
-mail: registration_officer@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 8978738490
 rid: 100011000100002201905101216123
 uid: registration_officer
@@ -440,7 +440,7 @@ firstName: Ajay
 genderCode: MLE
 isActive: false
 lastName: J
-mail: ajay.j2@mindtree.com
+mail:mosiptestuser@gmail.com
 mobile: 8660062352
 uid: ajay96
 
@@ -452,7 +452,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Admin_User1
 sn: Admin_User1
-mail: admin@mosip.io
+mail:mosiptestuser@gmail.com
 mobile: 9663175928
 rid: 100011000100002201905101214400
 uid: admin_user1
@@ -466,7 +466,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: pre_reg_client_user
 sn: pre_reg_client_user
-mail: Ravi.Balaji@mindtree.com
+mail:mosiptestuser@gmail.com
 mobile: 9989636932
 rid: 10001100010000220190510121450
 uid: pre_reg_client_user
@@ -480,7 +480,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Dawson Ibarra
 sn: Dawson Ibarra
-mail: dawson.ibarra@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 765455583
 rid: 10001100010000220190510121475
 uid: 110025
@@ -494,7 +494,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: tsp
 sn: tsp
-mail: tsp@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 8976545678
 rid: 100011000100002201911101214369
 uid: tsp
@@ -508,7 +508,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Magdalena Weber
 sn: Magdalena Weber
-mail: magdalena.weber@xyz.com
+mail: mosiptestuser@gmail.com
 mobile: 932122450
 rid: 10001100010000220190510121470
 uid: 110021
@@ -523,7 +523,7 @@ objectClass: top
 cn: test
 sn: test
 isActive: TRUE
-mail: sravya.surampalli@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 9989636932
 rid: 27847657360002520190527095001
 uid: 110001
@@ -537,7 +537,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: regproc_app_user
 sn: regproc_app_user
-mail: idaappuser@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 9663175928
 rid: 100011000100002201905101216468
 uid: regproc_app_user
@@ -555,7 +555,7 @@ dob: 2019-05-03
 firstName: sfsd
 genderCode: Male
 lastName: fadf
-mail: Ritesh.Sinha@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 234567
 uid: sagar
 userPassword: {SSHA256}pgTOFgvIEzYuIcc6o4S87/vYt3jG/KiG20uGaQbPQTuM5sVQSsV4ZQ==
@@ -568,7 +568,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: test
 sn: test
-mail: darby.self@xyz.com
+mail: mosiptestuser@gmail.com
 mobile: 859668671
 rid: 10001100010000220190510121462
 uid: 110013
@@ -582,7 +582,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: individual
 sn: individual
-mail: individual@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 8976394859
 rid: 100011000100002201905101214123
 uid: individual
@@ -596,7 +596,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Registration Officer User1
 sn: Registration Officer User1
-mail: registration_officer_user1@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 8978738490
 rid: 100011000100002201905101215767
 uid: registration_officer_user1
@@ -610,7 +610,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: user
 sn: user
-mail: balaji.sridharan@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 9791941815
 rid: 100011000100002201905101214567
 uid: reg_client_app
@@ -628,7 +628,7 @@ dob: 1996-04-07
 firstName: Sagar
 genderCode: Male
 lastName: Mahapatra
-mail: sagar.mahapatra2@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 7008503695
 uid: sagarsm
 userPassword: {SSHA256}BgooFwpwdNLIf/FfdXxSei6/oPdhvQd4G5Pd06gBsvlzazgDudGIcQ==
@@ -641,7 +641,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Super Admin User1
 sn: Super Admin User1
-mail: super_admin_user1@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 7585675364
 rid: 100011000100002201910101214368
 uid: super_admin_user1
@@ -655,7 +655,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn:: SWRlbGxhwqBIb3VnZQ==
 sn:: SWRlbGxhwqBIb3VnZQ==
-mail: idella.houge@xyz.com
+mail: mosiptestuser@gmail.com
 mobile: 9789970767
 rid: 10001100010000220190510121457
 uid: 110008
@@ -669,7 +669,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: test
 sn: test
-mail: audra.amezquita@xyz.com
+mail: mosiptestuser@gmail.com
 mobile: 791830986
 rid: 10001100010000220190510121455
 uid: 110006
@@ -683,7 +683,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: user
 sn: user
-mail: balaji.sridharan@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 9791941815
 rid: 100011000100002201905101215987
 uid: reg_client_app1
@@ -697,7 +697,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Registration Supervisor
 sn: Registration Supervisor
-mail: registration_supervisor@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 8756983674
 rid: 100011000100002201905101217123
 uid: registration_supervisor
@@ -716,7 +716,7 @@ firstName: Ajay
 genderCode: MLE
 isActive: false
 lastName: J
-mail: ajay.j2@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 8660062352
 uid: ajay15
 
@@ -728,7 +728,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: zonal admin
 sn: zonal admin
-mail: abhi.go@hotmail.com
+mail: mosiptestuser@gmail.com
 mobile: 8303830826
 rid: 10001100010009920190510121450
 uid: zonal-admin
@@ -742,7 +742,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Graham Bell
 sn: Graham Bell
-mail: graham.bell@xyz.com
+mail: mosiptestuser@gmail.com
 mobile: 818876435
 rid: 10001100010000220190510121484
 uid: 110034
@@ -756,7 +756,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: central approver
 sn: central approver
-mail: centralapprover@mosip.io
+mail: mosiptestuser@gmail.com
 mobile: 9398002602
 rid: 10001100010009920190510121450
 uid: central-approver
@@ -770,7 +770,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: test
 sn: test
-mail: shay.vitagliano@xyz.com
+mail: mosiptestuser@gmail.com
 mobile: 716591396
 rid: 10001100010000220190510121458
 uid: 110009
@@ -784,7 +784,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: user
 sn: user
-mail: balaji.sridharan@mindtree.com
+mail:mosiptestuser@gmail.com
 mobile: 9791941815
 rid: 100011000100002201905111214368
 uid: registrationclient_batch_user
@@ -798,7 +798,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: ida_app_user
 sn: ida_app_user
-mail: idaappuser@mosip.io
+mail:mosiptestuser@gmail.com
 mobile: 9663175928
 rid: 100011000100002201905101214399
 uid: ida_auth_app_user
@@ -812,7 +812,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn:: TWF6aWXCoE5lZ2xleQ==
 sn:: TWF6aWXCoE5lZ2xleQ==
-mail: mazie.negley@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 718961429
 rid: 10001100010000220190510121459
 uid: 110010
@@ -826,7 +826,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: TWFnZGHCoEdvZG95
 sn: TWFnZGHCoEdvZG95
-mail: magda.godoy@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 938380935
 rid: 10001100010000220190510121460
 uid: 110011
@@ -845,7 +845,7 @@ firstName: sdgds
 genderCode: MLE
 isActive: false
 lastName: sfsdfd
-mail: kumarbanti.kumar1@gmail.com
+mail:mosiptestuser@gmail.com
 mobile: 2345678
 uid: safwetfa
 
@@ -857,7 +857,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Steve George
 sn: Steve George
-mail: steve.george@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 971073663
 rid: 10001100010000220190510121477
 uid: 110027
@@ -871,7 +871,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: SGlsYXJ5wqBEdW5rbGlu
 sn: SGlsYXJ5wqBEdW5rbGlu
-mail: hilary.dunklin@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 853451517
 rid: 10001100010000220190510121465
 uid: 110016
@@ -885,7 +885,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Elvis Mcmillan
 sn: Elvis Mcmillan
-mail: elvis.mcmillan@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 884282274
 rid: 10001100010000220190510121476
 uid: 110026
@@ -899,7 +899,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn:: TGVpbGFuacKgSGVhdmVuZXI=
 sn:: TGVpbGFuacKgSGVhdmVuZXI=
-mail: leilani.heavener@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 942983448
 rid: 10001100010000220190510121468
 uid: 110019
@@ -913,7 +913,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: test
 sn: test
-mail: test@mosip.io
+mail:mosiptestuser@gmail.com
 mobile: 8929838494
 rid: 100011000100002201912101214367
 uid: test
@@ -927,7 +927,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn:: RmVybmXCoEhhbmc=
 sn:: RmVybmXCoEhhbmc=
-mail: ferne.hang@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 733802681
 rid: 10001100010000220190510121467
 uid: 110018
@@ -941,7 +941,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: registration operator
 sn: registration operator
-mail: registrationoperator@mosip.io
+mail:mosiptestuser@gmail.com
 mobile: 9398002602
 rid: 10001100010009920190510121450
 uid: registration-operator
@@ -955,7 +955,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: idauthentication
 sn: idauthentication
-mail: idauthentication@mosip.io
+mail:mosiptestuser@gmail.com
 mobile: 8937273849
 rid: 100011000100002201905101897
 uid: idauthentication
@@ -969,7 +969,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Albert Miles
 sn: Albert Miles
-mail: albert.miles@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 818876436
 rid: 10001100010000220190510121484
 uid: 110035
@@ -995,7 +995,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: QW55YcKgQWRvcm5v
 sn: QW55YcKgQWRvcm5v
-mail: anya.adorno@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 911713143
 rid: 10001100010000220190510121461
 uid: 110012
@@ -1009,7 +1009,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Registration Admin User1
 sn: Registration Admin User1
-mail: registration_admin_user1@mosip.io
+mail:mosiptestuser@gmail.com
 mobile: 7809875645
 rid: 100011000100002201905101215234
 uid: registration_admin_user1
@@ -1023,7 +1023,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Registration Admin
 sn: Registration Admin
-mail: registration_admin@mosip.io
+mail:mosiptestuser@gmail.com
 mobile: 7809875645
 rid: 100011000100002201905101215876
 uid: registration_admin
@@ -1037,7 +1037,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: ida_app_user
 sn: ida_app_user
-mail: idaappuser@mosip.io
+mail:mosiptestuser@gmail.com
 mobile: 9663175928
 rid: 100011000100002201905101214309
 uid: ida_app_user
@@ -1056,7 +1056,7 @@ firstName: Ritesh
 genderCode: MLE
 isActive: true
 lastName: Sinha
-mail: Ritesh.Sinha@mindtree.com
+mail:mosiptestuser@gmail.com
 mobile: 8095909764
 rid: 234567
 uid: ritesh09
@@ -1075,7 +1075,7 @@ firstName: ram
 genderCode: MLE
 isActive: FALSE
 lastName: kumar
-mail: Ritesh.Sinha@mindtree.com
+mail:mosiptestuser@gmail.com
 mobile: 8989886864
 uid: ram01
 
@@ -1087,7 +1087,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: user
 sn: user
-mail: balaji.sridharan@mindtree.com
+mail:mosiptestuser@gmail.com
 mobile: 9791941815
 rid: 100011000100002201905101215300
 uid: reg_client_id1
@@ -1106,7 +1106,7 @@ firstName: ritesh
 genderCode: MLE
 isActive: false
 lastName: kumar
-mail: Ritesh.Sinha@mindtree.com
+mail:mosiptestuser@gmail.com
 mobile: 4398578934
 uid: ram02
 
@@ -1118,7 +1118,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: test
 sn: test
-mail: homer.molinar@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 9360199746
 rid: 10001100010000220190510121453
 uid: 110004
@@ -1132,7 +1132,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: zonal approver
 sn: zonal approver
-mail: zonalapprover@mosip.io
+mail:mosiptestuser@gmail.com
 mobile: 9398002602
 rid: 10001100010009920190510121450
 uid: zonal-approver
@@ -1146,7 +1146,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: test
 sn: test
-mail: leia.white@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 899884346
 rid: 10001100010000220190510121456
 uid: 110007
@@ -1165,7 +1165,7 @@ firstName: Ajay
 genderCode: MLE
 isActive: false
 lastName: J
-mail: ajay.j2@mindtree.com
+mail:mosiptestuser@gmail.com
 mobile: 7795930445
 uid: ajay01
 
@@ -1177,7 +1177,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: registration supervisor
 sn: registration supervisor
-mail: zonaladmin@mosip.io
+mail:mosiptestuser@gmail.com
 mobile: 9398002602
 rid: 10001100010009920190510121450
 uid: registration-supervisor
@@ -1191,7 +1191,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: user
 sn: user
-mail: ida_client_app@mosip.io
+mail:mosiptestuser@gmail.com
 mobile: 9663175928
 rid: 100011000100002201905101214267
 uid: ida_client_app
@@ -1210,7 +1210,7 @@ firstName: ravi
 genderCode: MLE
 isActive: true
 lastName: kumar
-mail: Ritesh.Sinha@mindtree.com
+mail:mosiptestuser@gmail.com
 mobile: 76587467
 rid: 12134567
 uid: ram03
@@ -1229,7 +1229,7 @@ firstName: Ajay
 genderCode: MLE
 isActive: true
 lastName: J
-mail: ajay.j2@mindtree.com
+mail:mosiptestuser@gmail.com
 mobile: 8660062352
 rid: 1234567
 uid: ajay03
@@ -1248,7 +1248,7 @@ firstName: ankit
 genderCode: MLE
 isActive: true
 lastName: kumar
-mail: Ritesh.Sinha@mindtree.com
+mail:mosiptestuser@gmail.com
 mobile: 8989878989
 rid: 12345678899745432242
 uid: ankit01
@@ -1262,7 +1262,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Colton Elliott
 sn: Colton Elliott
-mail: colton.elliott@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 809908673
 rid: 10001100010000220190510121478
 uid: 110028
@@ -1276,7 +1276,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: ridtest
 sn: ridtest
-mail: sagar.mahapatra2@mindtree.com
+mail: mosiptestuser@gmail.com
 mobile: 7504871938
 rid: 10001100010000220190510121480
 uid: 110030
@@ -1290,7 +1290,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Adrienne Mcgee
 sn: Adrienne Mcgee
-mail: adrienne.mcgee@xyz.com
+mail:mosiptestuser@gmail.com
 mobile: 7585675364
 rid: 10001100010000220190510121472
 uid: 110023
@@ -1304,7 +1304,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: ram
 sn: ram
-mail: ram@gmail.com
+mail:mosiptestuser@gmail.com
 mobile: 9663175928
 uid: ram
 
@@ -1316,7 +1316,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn:: Q3Jpc3N5wqBGbG9y
 sn:: Q3Jpc3N5wqBGbG9y
-mail: crissy.flor@xyz.com
+mail: mosiptestuser@gmail.com
 mobile: 971384902
 rid: 10001100010000220190510121463
 uid: 110014
@@ -1330,7 +1330,7 @@ objectClass: inetOrgPerson
 objectClass: top
 cn: Registration Admin User1
 sn: Registration Admin User1
-mail: registration_admin_user1@mosip.io
+mail:mosiptestuser@gmail.com
 mobile: 7809875645
 rid: 100011000100002201905101215234
 uid: registration_admin1
@@ -1349,7 +1349,7 @@ firstName: ritesh
 genderCode: MLE
 isActive: false
 lastName: kumar
-mail: Ritesh.Sinha@mindtree.com
+mail:mosiptestuser@gmail.com
 mobile: 3433223
 uid: ravi1
 
